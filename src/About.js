@@ -1,5 +1,3 @@
-import Navbar from "./Navbar";
-
 const About = () => {
     return (
         <section className="page-body">
