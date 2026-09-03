@@ -11,7 +11,7 @@ const Footer = () => {
             <div>
                 <h4>Stay Connected</h4>
                 <a href="https://www.instagram.com/wisdom_aj/">Instagram</a>
-                <a href="#">LinkedIn</a>
+                <a href="www.linkedin.com/in/akajiaku-wisdom-980010333">LinkedIn</a>
                 <a href="https://github.com/DdonX">GitHub</a>
             </div>
         </div>
